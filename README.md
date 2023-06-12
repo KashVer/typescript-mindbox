@@ -28,10 +28,14 @@ Input для ввода новых toDos:
 
 
 Список завершенных дел:
+
+
 <img width="533" alt="завершенные дела" src="https://github.com/KashVer/typescript-mindbox/assets/125138959/b36550fb-3b8d-492f-8c93-3e3c49c4a360">
 
 
 Список предстоящих дел:
+
+
 <img width="533" alt="предстоящие дела" src="https://github.com/KashVer/typescript-mindbox/assets/125138959/b4c50983-957f-4848-b1ec-801480052a56">
 
 
