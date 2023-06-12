@@ -1,46 +1,47 @@
-# Getting Started with Create React App
+# Тестовое задание на должность Frontend Developer (React) в компании Mindbox
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**Для локального запуска проекта необходимо запустить скрипт npm install, а затем npm start**
 
-## Available Scripts
+## Ключевые технологии, которые необходимо использовать
 
-In the project directory, you can run:
+* Typescript
+* React
 
-### `npm start`
+## Описание задачи
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Сделайте ToDo-приложение, позволяющее управлять текущим списком дел
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Что должно быть в интерфейсе:
+1. Поле для ввода новой задачи
+2. Списки всех задач, невыполненных и выполненных задач (по отдельности)
 
-### `npm test`
+## Скриншоты выполненного задания можно посмотреть ниже
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Input для ввода новых toDos:
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<img width="523" alt="инпут" src="https://github.com/KashVer/typescript-mindbox/assets/125138959/65e650d1-7474-423c-a600-009c4a077667">
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Список всех дел (завершенных и предстоящих):
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+<img width="531" alt="все дела" src="https://github.com/KashVer/typescript-mindbox/assets/125138959/d6da5564-284f-4f82-a5cc-a2894b54eb70">
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Список завершенных дел:
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+<img width="533" alt="завершенные дела" src="https://github.com/KashVer/typescript-mindbox/assets/125138959/b36550fb-3b8d-492f-8c93-3e3c49c4a360">
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Список предстоящих дел:
+
+
+<img width="533" alt="предстоящие дела" src="https://github.com/KashVer/typescript-mindbox/assets/125138959/b4c50983-957f-4848-b1ec-801480052a56">
+
+
+Панель с указанием числа оставшихся дел, возможностью переключения между табами (все, завершенные, предстоящие дела) и возможностью удаления завершенных дел:
+
+
+<img width="523" alt="нижняя панель" src="https://github.com/KashVer/typescript-mindbox/assets/125138959/992aa997-c100-4d0e-b647-4d9a2c75c5ad">
