@@ -18,6 +18,8 @@
 ## Скриншоты выполненного задания можно посмотреть ниже
 
 Input для ввода новых toDos:
+
+
 <img width="523" alt="инпут" src="https://github.com/KashVer/typescript-mindbox/assets/125138959/65e650d1-7474-423c-a600-009c4a077667">
 
 
