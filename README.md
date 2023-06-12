@@ -24,6 +24,8 @@ Input для ввода новых toDos:
 
 
 Список всех дел (завершенных и предстоящих):
+
+
 <img width="531" alt="все дела" src="https://github.com/KashVer/typescript-mindbox/assets/125138959/d6da5564-284f-4f82-a5cc-a2894b54eb70">
 
 
@@ -40,4 +42,6 @@ Input для ввода новых toDos:
 
 
 Панель с указанием числа оставшихся дел, возможностью переключения между табами (все, завершенные, предстоящие дела) и возможностью удаления завершенных дел:
+
+
 <img width="523" alt="нижняя панель" src="https://github.com/KashVer/typescript-mindbox/assets/125138959/992aa997-c100-4d0e-b647-4d9a2c75c5ad">
