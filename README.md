@@ -20,28 +20,33 @@
 Input для ввода новых toDos:
 
 
-<img width="523" alt="инпут" src="https://github.com/KashVer/typescript-mindbox/assets/125138959/65e650d1-7474-423c-a600-009c4a077667">
+<img width="523" alt="инпут" src="https://github.com/KashVer/typescript-mindbox/assets/125138959/7c5bea88-b4fe-44c6-bb2f-ff08b2158265">
+
 
 
 Список всех дел (завершенных и предстоящих):
 
 
-<img width="531" alt="все дела" src="https://github.com/KashVer/typescript-mindbox/assets/125138959/d6da5564-284f-4f82-a5cc-a2894b54eb70">
+<img width="531" alt="все дела" src="https://github.com/KashVer/typescript-mindbox/assets/125138959/ad89dfe2-a50e-44fc-9704-eedb660bc49c">
+
 
 
 Список завершенных дел:
 
 
-<img width="533" alt="завершенные дела" src="https://github.com/KashVer/typescript-mindbox/assets/125138959/b36550fb-3b8d-492f-8c93-3e3c49c4a360">
+<img width="533" alt="завершенные дела" src="https://github.com/KashVer/typescript-mindbox/assets/125138959/2a012c83-dcbe-4ab4-ba7d-3b9e2ffa34d0">
+
 
 
 Список предстоящих дел:
 
 
-<img width="533" alt="предстоящие дела" src="https://github.com/KashVer/typescript-mindbox/assets/125138959/b4c50983-957f-4848-b1ec-801480052a56">
+<img width="533" alt="предстоящие дела" src="https://github.com/KashVer/typescript-mindbox/assets/125138959/9192d72c-3d3a-45f3-8be9-3b7fa7d4e308">
+
 
 
 Панель с указанием числа оставшихся дел, возможностью переключения между табами (все, завершенные, предстоящие дела) и возможностью удаления завершенных дел:
 
 
-<img width="523" alt="нижняя панель" src="https://github.com/KashVer/typescript-mindbox/assets/125138959/992aa997-c100-4d0e-b647-4d9a2c75c5ad">
+<img width="523" alt="нижняя панель" src="https://github.com/KashVer/typescript-mindbox/assets/125138959/3ab8e735-4460-444b-8ff7-44c3f2b853f9">
+
